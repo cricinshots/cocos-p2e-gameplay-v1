@@ -1,0 +1,51 @@
+{
+  "group-list": [
+    "default"
+  ],
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "excluded-modules": [
+    "Audio",
+    "AudioSource",
+    "Dynamic Atlas",
+    "DragonBones",
+    "Mesh",
+    "MotionStreak",
+    "Physics",
+    "WebView",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle"
+  ],
+  "start-scene": "88f51b8e-ec48-4c34-bff2-4d315b70231d",
+  "design-resolution-width": 500,
+  "design-resolution-height": 800,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 800,
+    "width": 500
+  },
+  "clear-simulator-cache": true,
+  "last-module-event-record-time": 1617207104733,
+  "assets-sort-type": "name",
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "preview-port": 7456
+}
