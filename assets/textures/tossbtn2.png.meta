@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b767315f-5161-4549-a515-034d21b8be4f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 616,
+  "height": 624,
+  "platformSettings": {},
+  "subMetas": {
+    "tossbtn2": {
+      "ver": "1.0.4",
+      "uuid": "a6585412-1e32-415d-ba81-ad8cbe6ab0cb",
+      "rawTextureUuid": "b767315f-5161-4549-a515-034d21b8be4f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 616,
+      "height": 624,
+      "rawWidth": 616,
+      "rawHeight": 624,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
